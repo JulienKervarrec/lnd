@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à le nœud Lightning, ses canaux, paiements en oignon et services RPC est disponible dans [docs/fr/](docs/fr/).
+
 ## Lightning Network Daemon
 
 [![Release build](https://github.com/lightningnetwork/lnd/actions/workflows/release.yaml/badge.svg)](https://github.com/lightningnetwork/lnd/actions/workflows/release.yaml)
